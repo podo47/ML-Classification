@@ -1,5 +1,5 @@
 # ML-Classification
-Hw3
+
 ## Content
 1.All codes used are in "code" file 
   * Linear Classifier from scratch : LC
@@ -30,6 +30,6 @@ Hw3
 | crx  | 0.0017       | 0.4905     |
 
 ### Effective weighting value C
-![Image](https://github.com/podo47/ML-Classification/raw/main/figure/Performance with different C_data.png)
+! [image](https://github.com/podo47/ML-Classification/raw/main/figure/Performance with different C_data.png)
 
-![Image](https://github.com/podo47/ML-Classification/raw/main/figure/Performance with different C_crx.png)
+! [image](https://github.com/podo47/ML-Classification/raw/main/figure/Performance with different C_crx.png)
