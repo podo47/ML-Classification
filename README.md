@@ -2,17 +2,22 @@
 
 ## Content
 1. All codes used are in "code" file 
-  * Linear Classifier from scratch : LC
-  * Linear classifier with least-squared manner : LS
-  * Voted perceptron
-  * SVM (Hard margin) : HardSVM
-  * SVM (Soft margin) : SoftSVM
-  * SVM by sklearn : sklearn
+   * Linear Classifier from scratch : LC
+   
+   * Linear classifier with least-squared manner : LS
+   
+   * Voted perceptron
+   
+   * SVM (Hard margin) : HardSVM
+   
+   * SVM (Soft margin) : SoftSVM
+   
+   * SVM by sklearn : sklearn
 
 2. Figures of performance with different C are in  "figure" file
-  * data - Performance with different C_data
+   * data - Performance with different C_data
   
-  * crx - Performance with different C_crx
+   * crx - Performance with different C_crx
   
 3. Given datasets "data.csv" and "crx.csv" are im "Given dataset" file
 
