@@ -1,3 +1,4 @@
+#Soft margin SVM
 import pandas as pd
 import numpy as np
 import cvxopt
