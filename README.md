@@ -3,7 +3,7 @@ This report shows various well-known methods of classification.
 
 Including linear classifier from scratch, linear classifier with least-squared manner, voted perception and SVM.
 
-Finally, I make a comparison by calculating accuracy between above mentioned method . 
+Finally, I make a comparison by calculating accuracy between above mentioned method. 
 
 ## Content
 1. All codes used are in "code" file 
