@@ -30,6 +30,6 @@
 | crx  | 0.0017       | 0.4905     |
 
 ### Effective weighting value C
-! [image](https://github.com/podo47/ML-Classification/raw/main/figure/Performance with different C_data.png)
+! [image](https://github.com/podo47/ML-Classification/raw/main/figure/PerformancewithdifferentC_data.png)
 
-! [image](https://github.com/podo47/ML-Classification/raw/main/figure/Performance with different C_crx.png)
+! [image](https://github.com/podo47/ML-Classification/raw/main/figure/PerformancewithdifferentC_crx.png)
