@@ -1,3 +1,4 @@
+#LC with least-squared manner
 import numpy as np
 import pandas as pd
 
