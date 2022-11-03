@@ -7,7 +7,8 @@ Hw3
   * Voted perceptron
   * SVM (Hard margin) : HardSVM
   * SVM (Soft margin) : SoftSVM
-  * SVM by sklearn : aklearn
+  * SVM by sklearn : sklearn
+
 2.Figures of performance with different C are in  "figure" file
   * data - Performance with different C_data
   
@@ -29,5 +30,6 @@ Hw3
 | crx  | 0.0017       | 0.4905     |
 
 ### Effective weighting value C
-![](https://github.com/podo47/ML-Classification/raw/main/figure/Performance with different C_data.png)
-![](https://github.com/podo47/ML-Classification/raw/main/figure/Performance with different C_crx.png)
+![Image](https://github.com/podo47/ML-Classification/raw/main/figure/Performance with different C_data.png)
+
+![Image](https://github.com/podo47/ML-Classification/raw/main/figure/Performance with different C_crx.png)
