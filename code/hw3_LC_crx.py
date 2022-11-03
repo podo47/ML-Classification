@@ -1,3 +1,4 @@
+#Linear Classifier from scratch
 import numpy as np
 import pandas as pd
 
